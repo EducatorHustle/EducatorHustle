@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EducatorHustle
-- 👀 I’m interested in ...#Micro:Bit Projects for my middle school students
+- 👋 Hi, I’m @Educator_Hustle
+- 👀 I’m interested in ...learning Python and CSS
 - 🌱 I’m currently learning ...Python and how to use this site
-- 💞️ I’m looking to collaborate on ...#Micro:Bits
+- 💞️ I’m looking to collaborate on ...not sure yet
 - 📫 How to reach me ...@educator_hustle on twitter
 
 <!---
